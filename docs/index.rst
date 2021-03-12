@@ -6,8 +6,7 @@
 Welkom bij de documentatie van CouchBot!
 =============================================
 
-(Special thanks to Spirit of the Lioness for this translation!)
-(Speciale dank aan Spirit of the Lioness voor deze vertaling!)
+(Speciale dank aan CrazyPuppyPawz voor deze vertaling!)
 
 .. toctree::
     :maxdepth: 2
